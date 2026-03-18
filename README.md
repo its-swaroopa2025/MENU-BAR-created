@@ -40,7 +40,7 @@ A simple and responsive **Ice Cream Website** featuring a ***modern menu bar*** 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/its-swaroopa2025/MENU-BAR-created.git
    ```
 
 2. Open the folder
