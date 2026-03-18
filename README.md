@@ -10,6 +10,7 @@ A simple and responsive **Ice Cream Website** featuring a ***modern menu bar*** 
 * 📱 Mobile menu (vertical toggle menu)
 * 🎯 Smooth scrolling to sections
 * ⬆️ “Go to Top” button
+* 🌙 Dark mode support
 * 🎨 Clean and simple UI design
 * ⚡ Lightweight and fast
 
@@ -55,6 +56,7 @@ A simple and responsive **Ice Cream Website** featuring a ***modern menu bar*** 
 * Handling DOM manipulation using JavaScript
 * Implementing smooth scrolling behavior
 * Creating mobile-friendly UI
+* Adding Dark/Light mode feature
 
 ---
 
@@ -63,7 +65,6 @@ A simple and responsive **Ice Cream Website** featuring a ***modern menu bar*** 
 * 🍦 Add cart functionality
 * 💳 Payment integration
 * 🧾 Order tracking system
-* 🌙 Dark mode support
 * 🎞️ Animations and transitions
 
 ---
